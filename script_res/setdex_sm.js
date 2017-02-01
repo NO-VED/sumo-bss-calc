@@ -410,6 +410,23 @@ var SETDEX_SM={
         "High Jump Kick"
       ]
     },
+    "Physical Life Orb": {
+      "level": 50,
+      "evs": {
+        "at": "252",
+        "sd": "4",
+        "sp": "252"
+      },
+      "nature": "Jolly",
+      "ability": "Speed Boost",
+      "item": "Life Orb",
+      "moves": [
+        "Flare Blitz",
+        "High Jump Kick",
+        "Thunder Punch",
+        "Knock Off"
+      ]
+    },
     "Baton Pass": {
       "level": 50,
       "evs": {
@@ -2113,7 +2130,7 @@ var SETDEX_SM={
     }
   },
   "Mimikyu": {
-    "Physical Attacker": {
+    "Life Orb": {
       "level": 50,
       "evs": {
         "hp": "4",
@@ -2123,6 +2140,23 @@ var SETDEX_SM={
       "nature": "Jolly",
       "ability": "Disguise",
       "item": "Life Orb",
+      "moves": [
+        "Play Rough",
+        "Shadow Claw",
+        "Shadow Sneak",
+        "Wood Hammer"
+      ]
+    },
+    "Sash / Z-Move": {
+      "level": 50,
+      "evs": {
+        "hp": "4",
+        "at": "252",
+        "sp": "252"
+      },
+      "nature": "Adamant",
+      "ability": "Disguise",
+      "item": "Fairium Z",
       "moves": [
         "Play Rough",
         "Shadow Claw",
@@ -2257,6 +2291,25 @@ var SETDEX_SM={
         "Moonblast",
         "Freeze-Dry",
         "Aurora Veil"
+      ]
+    }
+  },
+  "Pelipper": {
+    "Offensive": {
+      "level": 50,
+      "evs": {
+        "hp": "4",
+        "sa": "252",
+        "sp": "252"
+      },
+      "nature": "Modest",
+      "ability": "Drizzle",
+      "item": "Focus Sash",
+      "moves": [
+        "Hydro Pump",
+        "Hurricane",
+        "Ice Beam",
+        "U-turn"
       ]
     }
   },
@@ -3503,6 +3556,26 @@ var SETDEX_SM={
         "Thunderbolt",
         "Focus Blast",
         "Grass Knot"
+      ]
+    }
+  },
+  
+  "Volcarona": {
+    "Quiver Dance": {
+      "level": 50,
+      "evs": {
+        "hp": "4",
+        "sa": "252",
+        "sp": "252"
+      },
+      "nature": "Modest",
+      "ability": "Swarm",
+      "item": "Firium Z",
+      "moves": [
+        "Fire Blast",
+        "Bug Buzz",
+        "Hidden Power Ice",
+        "Giga Drain"
       ]
     }
   },
