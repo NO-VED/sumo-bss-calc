@@ -2695,7 +2695,7 @@ var SETDEX_SMBSPOT={
         "Sparkling Aria",
         "Moonblast",
         "Ice Beam",
-        "Energy Ball"
+        "Aqua Jet"
       ]
     }
   },
@@ -3027,7 +3027,7 @@ var SETDEX_SMBSPOT={
         "sa": "252",
         "sp": "252"
       },
-      "nature": "Rash",
+      "nature": "Naive",
       "ability": "Intimidate",
       "item": "Salamencite",
       "moves": [
